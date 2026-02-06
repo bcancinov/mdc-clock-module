@@ -1,0 +1,8 @@
+"Reference","Qty","M","MPN","Description"
+"C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C20,C21","13","VENKEL","C0402X7R100-105KNP-CT","1 µF ±10% 10V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"C12,C13,C14,C15,C16,C17,C18,C19","8","MURATA","GCM155R71C104KA55J","0.1 µF ±10% 16V Ceramic Capacitor X7R 0402 (1005 Metric)"
+"H1,H2","2","","","Mounting Hole with connection"
+"J1","1","Samtec","LSHM-130-04.0-L-DV-A-N-K-TR","Generic connector, double row, 02x30, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+"R1,R2","2","VISHAY","CRCW0402100RFKEDHP","100 Ohms ±1% 0.2W, 1/5W Chip Resistor 0402 (1005 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film"
+"U1","1","Skyworks","SI5394J-A-GM","Clock Synthesizer / Jitter Cleaner Single PLL jitter attenuator with ext crystal: 4-outputs up to 1028 MHz; integer+fractional"
+"U2","1","Texas Instruments","TPS7A2018PDBVR",""
